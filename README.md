@@ -3,4 +3,4 @@
 <details>
   <summary>whoami</summary>
   
-[HackTheBox](img src="http://www.hackthebox.eu/badge/image/96780")
+[![Twitter](https://www.hackthebox.eu/badge/96780)](https://app.hackthebox.eu/profile/96780)
