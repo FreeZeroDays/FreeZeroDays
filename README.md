@@ -1,4 +1,4 @@
-### hellofriend.mov
+### hellofriend.git
 
 <details>
   <summary>whoami</summary>
