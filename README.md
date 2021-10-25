@@ -6,4 +6,13 @@
 
 Deviant / Senior Penetration Tester
 
-[![Twitter](http://www.hackthebox.eu/badge/image/96780)](https://app.hackthebox.eu/profile/96780)
+[![HackTheBox](http://www.hackthebox.eu/badge/image/96780)](https://app.hackthebox.eu/profile/96780)
+
+<p align="center">
+  </a>
+  <a href="https://twitter.com/FreeZeroDays">
+    <img src="https://img.shields.io/twitter/follow/freezerodays?style=social">
+
+     </a>
+ </a>
+</p>
