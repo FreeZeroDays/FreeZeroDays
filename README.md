@@ -13,5 +13,7 @@ Deviant / Senior Penetration Tester
   <a href="https://twitter.com/FreeZeroDays">
     <img src="https://img.shields.io/twitter/follow/freezerodays?style=social">
   </a>
-     [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M56PUUL)
+   <a href="https://www.buymeacoffee.com/deviantsec">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="20px">
+  </a>
 </p>
