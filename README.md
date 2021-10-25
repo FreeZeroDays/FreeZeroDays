@@ -12,7 +12,8 @@ Deviant / Senior Penetration Tester
   </a>
   <a href="https://twitter.com/FreeZeroDays">
     <img src="https://img.shields.io/twitter/follow/freezerodays?style=social">
-
+  </a>
+     [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M56PUUL)
      </a>
  </a>
 </p>
