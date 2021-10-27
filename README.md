@@ -12,5 +12,3 @@ Deviant / Senior Penetration Tester
    <a href="https://ko-fi.com/deviantsec">
     <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="20px">
   </a>
-
-![Twitter Follow]()
