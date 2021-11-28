@@ -4,7 +4,7 @@
   <summary>whoami</summary>
  </details>
 
-Deviant / Senior Penetration Tester
+Parzival / Senior Penetration Tester
 
 [![HackTheBox](http://www.hackthebox.eu/badge/image/96780)](https://app.hackthebox.eu/profile/96780)
 
