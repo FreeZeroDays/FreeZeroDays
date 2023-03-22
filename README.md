@@ -1,11 +1,64 @@
-### hellofriend.git
+## whoami
 
-<details>
-  <summary>whoami</summary>
- </details>
-
-Parzival / Senior Penetration Tester
+Parzival / Hacker and Threat Actor Larper
 
 [![HackTheBox](http://www.hackthebox.eu/badge/image/96780)](https://app.hackthebox.eu/profile/96780)
 
-[![Twitter URL](https://img.shields.io/twitter/follow/FreeZeroDays?label=FreeZeroDays%20%20%F0%9F%90%A6&style=flat-square)](https://twitter.com/FreeZeroDays)
+## contact
+
+Feel free to use PGP when sending me messages over any platforms I have listed on my profile.</p>
+	<details>
+		<summary>Public PGP Key: <code style="margin-left:10px;">7907 71AE 40CB 5062 27F5 0900 D680 C0EE 1B14 F438</code></summary>
+			<pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+0xDs6zfwFw==
+=YamI
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
